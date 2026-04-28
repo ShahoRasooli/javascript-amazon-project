@@ -14,4 +14,4 @@ A fully functional Amazon homepage clone featuring a dynamic shopping cart syste
 - **HTML5 & CSS3:** Responsive layout and styling.
 
 ## 🔗 Live Demo
-Check out the live project here: [https://ShahoRasooli.github.io/Amazon-Clone-JS/amazon.html]
+Check out the live project here: [https://ShahoRasooli.github.io/Amazon-Clone-JS/index.html]
